@@ -1,0 +1,16 @@
+// overview description file for de_dustyaztec.bsp
+
+global 
+{
+	ZOOM	1.39
+	ORIGIN	136	1088	-305
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE		"overviews/de_dustyaztec.bmp"
+	HEIGHT	-305
+}
+
+// Overview: Zoom 1.39, Map Origin (136.00, 1088.00, 80.00), Z Min 465.00, Z Max -305.00, Rotated 1
