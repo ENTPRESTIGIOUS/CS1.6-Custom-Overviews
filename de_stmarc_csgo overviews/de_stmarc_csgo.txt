@@ -1,0 +1,16 @@
+// overview description file for de_stmarc_csgo.bsp
+
+global 
+{
+	ZOOM	1.18
+	ORIGIN	182.00 	649.00	-129
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE		"overviews/de_stmarc_csgo.bmp"
+	HEIGHT	-129
+}
+
+// Overview: Zoom 1.18, Map Origin (182.00, 649.00, 323.00), Z Min 775.00, Z Max -129.00, Rotated 1
