@@ -1,0 +1,16 @@
+// overview description file for de_dusferno2.bsp
+
+global 
+{
+	ZOOM	1.15
+	ORIGIN	92.5 	39.5	-1121
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_dusferno2.bmp"
+	HEIGHT	-1121
+}
+
+// Overview: Zoom 1.15, Map Origin (92.50, 39.50, -224.00), Z Min 673.00, Z Max -1121.00, Rotated 1
