@@ -1,0 +1,16 @@
+// overview description file for de_dust2002.bsp
+
+global 
+{
+	ZOOM	1.14
+	ORIGIN	128.00 	128.00	-1025
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE		"overviews/de_dust2002.bmp"
+	HEIGHT	-1025
+}
+
+// Overview: Zoom 1.14, Map Origin (128.00, 128.00, -384.00), Z Min 257.00, Z Max -1025.00, Rotated 1
