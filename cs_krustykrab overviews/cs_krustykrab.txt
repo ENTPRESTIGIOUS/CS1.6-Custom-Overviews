@@ -1,0 +1,16 @@
+// overview description file for cs_krustykrab.bsp
+
+global 
+{
+	ZOOM	2.33
+	ORIGIN	448.00 	-1280.00	-177
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE		"overviews/cs_krustykrab.bmp"
+	HEIGHT	-177
+}
+
+// Overview: Zoom 2.33, Map Origin (448.00, -1280.00, 244.00), Z Min 665.00, Z Max -177.00, Rotated 0
