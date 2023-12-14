@@ -1,0 +1,16 @@
+// overview description file for css_overpass.bsp
+
+global 
+{
+	ZOOM	1.09
+	ORIGIN	-112.70 	-707.03	-857
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE		"overviews/css_overpass.bmp"
+	HEIGHT	-857
+}
+
+// Overview: Zoom 1.09, Map Origin (-112.70, -707.03, -76.00), Z Min 1768.00, Z Max -857.00, Rotated 1
