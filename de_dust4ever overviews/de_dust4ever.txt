@@ -1,0 +1,16 @@
+// overview description file for de_dust4ever.bsp
+
+global 
+{
+	ZOOM	1.23
+	ORIGIN	-1052 	280	-177
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE		"overviews/de_dust4ever.bmp"
+	HEIGHT	-177
+}
+
+// Overview: Zoom 1.23, Map Origin (-1052.00, 280.00, 168.00), Z Min 513.00, Z Max -177.00, Rotated 0
