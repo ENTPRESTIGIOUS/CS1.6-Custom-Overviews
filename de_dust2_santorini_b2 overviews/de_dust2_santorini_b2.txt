@@ -1,0 +1,17 @@
+// overview description file for de_dust2_santorini_b2.bsp
+
+global 
+{
+	ZOOM	0.75
+	ORIGIN	0.00 	-331.64	-4228
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE		"overviews/de_dust2_santorini_b2.bmp"
+	HEIGHT	-129
+}
+
+
+// Overview: Zoom 0.75, Map Origin (0.00, -331.64, 0.00), Z Min 3803.00, Z Max -4228.00, Rotated 1
