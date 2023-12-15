@@ -1,0 +1,17 @@
+// overview description file for de_beishan
+
+global 
+{
+	ZOOM	1.36
+	ORIGIN	-60	-40	-417
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_beishan.bmp"
+	HEIGHT	-417
+}
+
+
+// Overview: Zoom 1.36, Map Origin (-60.00, -40.00, 386.00), Z Min 1189.00, Z Max -417.00, Rotated 0
