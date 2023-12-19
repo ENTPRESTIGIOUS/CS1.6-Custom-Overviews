@@ -1,0 +1,16 @@
+// Overview: Zoom 1.45, Map Origin (-160.00, 1216.00, -284.00), Z Min 265.00, Z Max -833.00, Rotated 0
+// overview description file for de_dust_assault.bsp
+
+global 
+{
+	ZOOM	1.45
+	ORIGIN	-160	 	1216		-833
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE		"overviews/de_dust_assault.bmp"
+	HEIGHT	-833
+}
+
