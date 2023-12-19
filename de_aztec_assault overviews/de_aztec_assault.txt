@@ -1,0 +1,16 @@
+// Overview: Zoom 1.37, Map Origin (192.00, 1176.00, -284.00), Z Min 265.00, Z Max -833.00, Rotated 0
+
+// overview description file for de_aztec_assault.bsp
+
+global 
+{
+	ZOOM	1.37
+	ORIGIN	192 	1176	-833
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE		"overviews/de_aztec_assault.bmp"
+	HEIGHT	-833
+}
