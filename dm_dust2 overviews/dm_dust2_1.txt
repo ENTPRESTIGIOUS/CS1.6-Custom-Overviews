@@ -1,0 +1,16 @@
+// Overview: Zoom 2.25, Map Origin (-304.00, 0.00, 208.00), Z Min 449.00, Z Max -33.00, Rotated 0
+
+// overview description file for dm_dust2.bsp
+
+global 
+{
+	ZOOM	2.25
+	ORIGIN	-304		0		-33
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_dust2.bmp"
+	HEIGHT	-33
+}

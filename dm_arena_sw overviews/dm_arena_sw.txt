@@ -1,0 +1,16 @@
+// Overview: Zoom 2.23, Map Origin (-160.00, -1632.00, 64.00), Z Min 321.00, Z Max -193.00, Rotated 0
+
+// overview description file for dm_arena_sw.bsp
+
+global 
+{
+	ZOOM	2.23
+	ORIGIN	-160		-1632		-193
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_arena_sw.bmp"
+	HEIGHT	-193
+}

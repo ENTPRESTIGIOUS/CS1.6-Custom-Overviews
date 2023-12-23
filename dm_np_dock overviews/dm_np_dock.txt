@@ -1,0 +1,16 @@
+// Overview: Zoom 1.26, Map Origin (-530.50, 1164.50, 196.50), Z Min 958.00, Z Max -565.00, Rotated 0
+
+// overview description file for dm_np_dock.bsp
+
+global 
+{
+	ZOOM	1.26
+	ORIGIN	-530		1164.50		-565
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_np_dock.bmp"
+	HEIGHT	-565
+}

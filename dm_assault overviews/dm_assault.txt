@@ -1,0 +1,16 @@
+// Overview: Zoom 3.56, Map Origin (0.00, 0.00, 14.00), Z Min 317.00, Z Max -289.00, Rotated 1
+
+// overview description file for dm_assault.bsp
+
+global 
+{
+	ZOOM	3.56
+	ORIGIN	0		0		-289
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_assault.bmp"
+	HEIGHT	-289
+}
